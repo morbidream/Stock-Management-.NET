@@ -1,0 +1,60 @@
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.deps.json
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.dll
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\PS.Data.dll
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\PS.Domain.dll
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\PS.Data.pdb
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.AssemblyReference.cache
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfoInputs.cache
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfo.cs
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CoreCompileInputs.cache
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CopyComplete
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.dll
+E:\Esprit\App-Class\4SLEAM1\Copie de ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.pdb
+F:\Esprit\App-Class\4SLEAM1\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.deps.json
+F:\Esprit\App-Class\4SLEAM1\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.dll
+F:\Esprit\App-Class\4SLEAM1\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+F:\Esprit\App-Class\4SLEAM1\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\PS.Data.dll
+F:\Esprit\App-Class\4SLEAM1\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\PS.Domain.dll
+F:\Esprit\App-Class\4SLEAM1\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\PS.Data.pdb
+F:\Esprit\App-Class\4SLEAM1\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+F:\Esprit\App-Class\4SLEAM1\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.AssemblyReference.cache
+F:\Esprit\App-Class\4SLEAM1\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\Esprit\App-Class\4SLEAM1\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfoInputs.cache
+F:\Esprit\App-Class\4SLEAM1\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfo.cs
+F:\Esprit\App-Class\4SLEAM1\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CoreCompileInputs.cache
+F:\Esprit\App-Class\4SLEAM1\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CopyComplete
+F:\Esprit\App-Class\4SLEAM1\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.dll
+F:\Esprit\App-Class\4SLEAM1\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.AssemblyReference.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfoInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfo.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CoreCompileInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.deps.json
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ED.Data.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ED.Domain.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ED.Data.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ED.Domain.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CopyComplete
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.deps.json
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ED.Data.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ED.Domain.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ED.Data.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ServicePattern\bin\Debug\netcoreapp3.1\ED.Domain.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.AssemblyReference.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfoInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfo.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CoreCompileInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CopyComplete
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.pdb

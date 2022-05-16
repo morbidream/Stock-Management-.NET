@@ -1,0 +1,39 @@
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\ED.Service.csproj.AssemblyReference.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\ED.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\ED.Service.AssemblyInfoInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\ED.Service.AssemblyInfo.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\ED.Service.csproj.CoreCompileInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Service\bin\Debug\netcoreapp3.1\ED.Service.deps.json
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Service\bin\Debug\netcoreapp3.1\ED.Service.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Service\bin\Debug\netcoreapp3.1\ED.Service.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Service\bin\Debug\netcoreapp3.1\ED.Data.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Service\bin\Debug\netcoreapp3.1\ED.Domain.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Service\bin\Debug\netcoreapp3.1\ServicePattern.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Service\bin\Debug\netcoreapp3.1\ED.Data.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Service\bin\Debug\netcoreapp3.1\ED.Domain.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Service\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Service\obj\Debug\netcoreapp3.1\ED.Service.csproj.AssemblyReference.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Service\obj\Debug\netcoreapp3.1\ED.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Service\obj\Debug\netcoreapp3.1\ED.Service.AssemblyInfoInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Service\obj\Debug\netcoreapp3.1\ED.Service.AssemblyInfo.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Service\obj\Debug\netcoreapp3.1\ED.Service.csproj.CoreCompileInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Service\obj\Debug\netcoreapp3.1\ED.Service.csproj.CopyComplete
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Service\obj\Debug\netcoreapp3.1\ED.Service.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Service\obj\Debug\netcoreapp3.1\ED.Service.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Service\bin\Debug\netcoreapp3.1\ED.Service.deps.json
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Service\bin\Debug\netcoreapp3.1\ED.Service.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Service\bin\Debug\netcoreapp3.1\ED.Service.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Service\bin\Debug\netcoreapp3.1\ED.Data.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Service\bin\Debug\netcoreapp3.1\ED.Domain.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Service\bin\Debug\netcoreapp3.1\ServicePattern.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Service\bin\Debug\netcoreapp3.1\ED.Data.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Service\bin\Debug\netcoreapp3.1\ED.Domain.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Service\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Service\obj\Debug\netcoreapp3.1\ED.Service.csproj.AssemblyReference.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Service\obj\Debug\netcoreapp3.1\ED.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Service\obj\Debug\netcoreapp3.1\ED.Service.AssemblyInfoInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Service\obj\Debug\netcoreapp3.1\ED.Service.AssemblyInfo.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Service\obj\Debug\netcoreapp3.1\ED.Service.csproj.CoreCompileInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Service\obj\Debug\netcoreapp3.1\ED.Service.csproj.CopyComplete
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Service\obj\Debug\netcoreapp3.1\ED.Service.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Service\obj\Debug\netcoreapp3.1\ED.Service.pdb

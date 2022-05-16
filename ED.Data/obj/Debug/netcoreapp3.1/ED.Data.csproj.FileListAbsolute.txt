@@ -1,0 +1,37 @@
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\ED.Data.csproj.AssemblyReference.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\ED.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\ED.Data.AssemblyInfoInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\ED.Data.AssemblyInfo.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\ED.Data.csproj.CoreCompileInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Data\bin\Debug\netcoreapp3.1\ED.Data.deps.json
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Data\bin\Debug\netcoreapp3.1\ED.Data.runtimeconfig.json
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Data\bin\Debug\netcoreapp3.1\ED.Data.runtimeconfig.dev.json
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Data\bin\Debug\netcoreapp3.1\ED.Data.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Data\bin\Debug\netcoreapp3.1\ED.Data.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Data\bin\Debug\netcoreapp3.1\ED.Domain.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Data\bin\Debug\netcoreapp3.1\ED.Domain.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Data\obj\Debug\netcoreapp3.1\ED.Data.csproj.AssemblyReference.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Data\obj\Debug\netcoreapp3.1\ED.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Data\obj\Debug\netcoreapp3.1\ED.Data.AssemblyInfoInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Data\obj\Debug\netcoreapp3.1\ED.Data.AssemblyInfo.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Data\obj\Debug\netcoreapp3.1\ED.Data.csproj.CoreCompileInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Data\obj\Debug\netcoreapp3.1\ED.Data.csproj.CopyComplete
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Data\obj\Debug\netcoreapp3.1\ED.Data.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Data\obj\Debug\netcoreapp3.1\ED.Data.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Data\obj\Debug\netcoreapp3.1\ED.Data.genruntimeconfig.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Data\bin\Debug\netcoreapp3.1\ED.Data.deps.json
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Data\bin\Debug\netcoreapp3.1\ED.Data.runtimeconfig.json
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Data\bin\Debug\netcoreapp3.1\ED.Data.runtimeconfig.dev.json
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Data\bin\Debug\netcoreapp3.1\ED.Data.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Data\bin\Debug\netcoreapp3.1\ED.Data.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Data\bin\Debug\netcoreapp3.1\ED.Domain.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Data\bin\Debug\netcoreapp3.1\ED.Domain.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Data\obj\Debug\netcoreapp3.1\ED.Data.csproj.AssemblyReference.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Data\obj\Debug\netcoreapp3.1\ED.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Data\obj\Debug\netcoreapp3.1\ED.Data.AssemblyInfoInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Data\obj\Debug\netcoreapp3.1\ED.Data.AssemblyInfo.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Data\obj\Debug\netcoreapp3.1\ED.Data.csproj.CoreCompileInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Data\obj\Debug\netcoreapp3.1\ED.Data.csproj.CopyComplete
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Data\obj\Debug\netcoreapp3.1\ED.Data.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Data\obj\Debug\netcoreapp3.1\ED.Data.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Data\obj\Debug\netcoreapp3.1\ED.Data.genruntimeconfig.cache

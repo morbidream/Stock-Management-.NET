@@ -1,0 +1,209 @@
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Web\obj\Debug\netcoreapp3.1\ED.Web.csproj.AssemblyReference.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Web\obj\Debug\netcoreapp3.1\ED.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Web\obj\Debug\netcoreapp3.1\ED.Web.AssemblyInfoInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Web\obj\Debug\netcoreapp3.1\ED.Web.AssemblyInfo.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Web\obj\Debug\netcoreapp3.1\ED.Web.csproj.CoreCompileInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Web\obj\Debug\netcoreapp3.1\ED.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Web\obj\Debug\netcoreapp3.1\ED.Web.RazorAssemblyInfo.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Web\obj\Debug\netcoreapp3.1\ED.Web.RazorAssemblyInfo.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.csproj.AssemblyReference.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.AssemblyInfoInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.AssemblyInfo.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.csproj.CoreCompileInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.RazorAssemblyInfo.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.RazorAssemblyInfo.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\staticwebassets\ED.Web.StaticWebAssets.Manifest.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\staticwebassets\ED.Web.StaticWebAssets.xml
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\ED.Web.styles.css
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.TagHelpers.input.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.TagHelpers.output.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.RazorCoreGenerate.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Image.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ListProvider.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.RazorTargetAssemblyInfo.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.RazorTargetAssemblyInfo.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ED.Web.exe
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ED.Web.deps.json
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ED.Web.runtimeconfig.json
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ED.Web.runtimeconfig.dev.json
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ED.Web.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ED.Web.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ED.Web.Views.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ED.Web.Views.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ED.Data.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ED.Domain.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ED.Service.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ServicePattern.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ED.Domain.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ED.Service.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ED.Data.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.csproj.AssemblyReference.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.AssemblyInfoInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.AssemblyInfo.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.csproj.CoreCompileInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.RazorAssemblyInfo.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.RazorAssemblyInfo.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\staticwebassets\ED.Web.StaticWebAssets.Manifest.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\staticwebassets\ED.Web.StaticWebAssets.xml
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\ED.Web.styles.css
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.TagHelpers.input.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.TagHelpers.output.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.RazorCoreGenerate.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Image.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.RazorTargetAssemblyInfo.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.RazorTargetAssemblyInfo.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.Views.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.csproj.CopyComplete
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\ED.Web.genruntimeconfig.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore\ProductStore\ED.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ListProvider.cshtml.g.cs

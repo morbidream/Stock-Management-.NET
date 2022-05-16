@@ -1,0 +1,10 @@
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\ED.Domain.deps.json
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\ED.Domain.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\ED.Domain.pdb
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\ED.Domain.csproj.AssemblyReference.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\ED.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\ED.Domain.AssemblyInfoInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\ED.Domain.AssemblyInfo.cs
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\ED.Domain.csproj.CoreCompileInputs.cache
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\ED.Domain.dll
+C:\666MOCHI\4twin\2nd\.NET\ProductStore - Séance 12 - Copy\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\ED.Domain.pdb
